@@ -1,9 +1,9 @@
 .jumbotron {
-    font-family: 'Lobster', cursive;
     background-color: blueviolet;
 }
 
 .jumbotron a {
+    font-family: 'Lobster', cursive;
     color: white;
 }
 
@@ -30,12 +30,12 @@
     margin-bottom: 15px !important;
 }
 
-.post-title a {
+h1, h2, h3, h4 {
     font-family: 'Zilla Slab';
     color: black;
 }
 
-.post-content {
+.container {
     font-family: 'Open Sans';
 }
 
